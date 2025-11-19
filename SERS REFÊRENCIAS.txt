@@ -1,0 +1,22 @@
+Fontes referência:
+1. Consumo médio de energia (200 kWh/dia)
+Esse valor foi inspirado em dados públicos sobre consumo típico de empresas de pequeno porte e ambientes corporativos.
+• Agência Nacional de Energia Elétrica (ANEEL)
+Relatórios da ANEEL indicam que empresas comerciais de pequeno e médio porte têm consumo mensal variando entre 3.000 e 7.000 kWh, o que equivale a 100–230 kWh por dia.
+2. Geração solar média (150 kWh/dia)
+A simulação da energia solar foi inspirada em:
+• Atlas Brasileiro de Energia Solar – INPE
+O Brasil tem irradiação solar média entre 4,5 e 6,3 kWh/m²/dia, permitindo geração diária típica entre 130 e 200 kWh para sistemas comerciais de 50–80 m².
+• Aneel – Sistema de Compensação de Energia Elétrica (SCEE)
+Registra parâmetros de geração de sistemas fotovoltaicos no país.
+Esses dados ajudam a justificar a média de 150 kWh/dia.
+
+3. Variação no Consumo (±25 kWh)
+A variabilidade adicionada ao consumo diário (ruídos simulados) segue valores recomendados em:
+• International Energy Agency (IEA)
+Estudos sobre flutuação energética em ambientes corporativos indicam variações de 10% a 20% no dia a dia.
+
+4. Critério de desperdício (>15% acima da média)
+Esse critério não é oficial, mas foi inspirado em métricas usadas por:
+• U.S. Department of Energy (DOE)
+Programas de auditoria energética recomendam considerar anomalias 10–20% acima da média como potencial desperdício.
